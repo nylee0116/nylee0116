@@ -105,8 +105,8 @@
   </tr>
   <tr>
     <td width="50%">
-      <a href="https://github.com/sm-solux/30th_2_devy_deartime_front"><b>Web Service Project (Front-end)</b></a> 🏆<br>
-      중앙개발동아리(SOLUX) 내 프로젝트 우수상 수상 | React 기반 프론트엔드 개발 및 협업 | Deartime(추억저장소)
+      <a href="https://github.com/sm-solux/30th_2_devy_deartime_front"><b>Web Service Project DEARTIME (Front-end)</b></a> 🏆<br>
+      중앙개발동아리(SOLUX) 내 프로젝트 우수상 수상 | React 기반 프론트엔드 개발 및 협업 
     </td>
     <td width="50%">
       <a href="https://github.com/nylee0116/ai-study-2026-smwu"><b>AI Engineering & Paper Study</b></a><br>
