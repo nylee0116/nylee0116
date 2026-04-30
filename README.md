@@ -66,7 +66,37 @@
   <tr>
     <td width="50%">
       <a href="https://github.com/nylee0116/opensource_project"><b>Wildfire Detection (YOLOv8)</b></a><br>
-      취약계층을 위한 실시간 산불 화재 감지 시스템 구현
+      취약계층을 위한 실시간 산불 화재 감지 프로젝트ite">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white">
+</p>
+
+<p align="left">
+<b>Tools & Collaboration</b><br>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
+<img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white">
+<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
+</p>
+</div>
+
+<div style="text-align: left;">
+<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧠 Research Interests </h2>
+<ul>
+<li><b>AI System Optimization:</b> Efficient AI architectures and memory-centric system design.</li>
+<li><b>Model Compression:</b> Pruning, Quantization, and lightweight algorithm development.</li>
+<li><b>Memory Management:</b> High-performance Garbage Collection and system resource optimization.</li>
+</ul>
+</div>
+
+<div style="text-align: left;">
+<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🚀 Projects </h2>
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/nylee0116/opensource_project"><b>Wildfire Detection (YOLOv8)</b></a><br>
+      취약계층을 위한 실시간 산불 화재 감지 프로젝트
     </td>
     <td width="50%">
       <a href="https://github.com/nylee0116/garbage_collection_toy_project"><b>Garbage Collection Toy Project</b></a><br>
@@ -76,7 +106,7 @@
   <tr>
     <td width="50%">
       <a href="https://github.com/sm-solux/30th_2_devy_deartime_front"><b>Web Service Project (Front-end)</b></a> 🏆<br>
-      중앙개발동아리(SOLUX) 내 프로젝트 우수상 수상 | React 기반 프론트엔드 개발 및 협업
+      중앙개발동아리(SOLUX) 내 프로젝트 우수상 수상 | React 기반 프론트엔드 개발 및 협업 | Deartime(추억저장소)
     </td>
     <td width="50%">
       <a href="https://github.com/nylee0116/ai-study-2026-smwu"><b>AI Engineering & Paper Study</b></a><br>
