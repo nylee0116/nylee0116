@@ -96,7 +96,7 @@
   <tr>
     <td width="50%">
       <a href="https://github.com/nylee0116/opensource_project"><b>Wildfire Detection (YOLOv8)</b></a><br>
-      취약계층을 위한 실시간 산불 화재 감지 프로젝트
+      취약계층을 위한 산불 화재 감지 프로젝트
     </td>
     <td width="50%">
       <a href="https://github.com/nylee0116/garbage_collection_toy_project"><b>Garbage Collection Toy Project</b></a><br>
