@@ -42,7 +42,7 @@
 </p>
 
 <p align="left">
-<b>🛠️ Tools & Collaboration</b><br>
+<b>Tools & Collaboration</b><br>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
 <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
