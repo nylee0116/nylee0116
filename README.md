@@ -65,8 +65,8 @@
 <table>
   <tr>
     <td width="50%">
-      <a href="https://github.com/nylee0116/opensource_project"><b>Wildfire Detection (YOLOv8)</b></a><br>
-      취약계층을 위한 실시간 산불 화재 감지 프로젝트
+      <a href="https://github.com/nylee0116/ai-study-2026-smwu"><b>AI Engineering & Paper Study</b></a><br>
+      동계 방학 AI 알고리즘 분석 및 구현 스터디
     </td>
     <td width="50%">
       <a href="https://github.com/nylee0116/garbage_collection_toy_project"><b>Garbage Collection Toy Project</b></a><br>
@@ -79,8 +79,8 @@
       중앙개발동아리(SOLUX) 내 프로젝트 우수상 수상 | React 기반 프론트엔드 개발 및 협업 
     </td>
     <td width="50%">
-      <a href="https://github.com/nylee0116/ai-study-2026-smwu"><b>AI Engineering & Paper Study</b></a><br>
-      동계 방학 AI 알고리즘 분석 및 구현 스터디
+      <a href="https://github.com/nylee0116/opensource_project"><b>Wildfire Detection (YOLOv8)</b></a><br>
+      취약계층을 위한 실시간 산불 화재 감지 프로젝트
     </td>
   </tr>
 </table>
