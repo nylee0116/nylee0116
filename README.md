@@ -66,7 +66,7 @@
   <tr>
     <td width="50%">
       <a href="https://github.com/nylee0116/ai-study-2026-smwu"><b>AI Engineering & Paper Study</b></a><br>
-      동계 방학 AI 알고리즘 분석 및 구현 스터디
+      동계 방학 AI 알고리즘 분석 및 구현 스터디 (FlashAttention)
     </td>
     <td width="50%">
       <a href="https://github.com/nylee0116/garbage_collection_toy_project"><b>Garbage Collection Toy Project</b></a><br>
