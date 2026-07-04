@@ -1,5 +1,5 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=70b5ff&height=240&text=Nayeon's%20Github&animation=&fontColor=ffffff&fontSize=60" />
+<div align="left">
+<h1>Lee Nayeon</h1>
 </div>
 
 <div style="text-align: left;">
