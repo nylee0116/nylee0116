@@ -1,5 +1,5 @@
 <div align="left">
-<h1>Lee Nayeon</h1>
+<h1>Nayeon Lee</h1>
 </div>
 
 <div style="text-align: left;">
