@@ -83,6 +83,12 @@
       취약계층을 위한 실시간 산불 화재 감지 프로젝트
     </td>
   </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/APPCREATORSCREW/NUBEE-backend"><b>Web Service Project NUBEE (Back-end)</b></a>🏆<br>
+      중앙개발동아리(SOLUX) 내 프로젝트 최우수상 수상 | Springboot, LLM API 기반 백엔드 개발 및 협업
+    </td>
+  </tr>
 </table>
 </div>
 
