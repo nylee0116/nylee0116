@@ -6,6 +6,7 @@
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Welcome to Nayeon's Github! </h2>
 <div style="font-weight: 700; font-size: 15px; color: #282d33;"> 🎓 2024.03~ : Sookmyung Women's University, Dept. of AI Engineering </div>
 <div style="font-weight: 700; font-size: 15px; color: #282d33;"> ✨ 2025.03~ : 숙명여자대학교 중앙개발동아리 SOLUX </div>
+  <div style="font-weight: 700; font-size: 15px; color: #282d33;"> ✨ 2026.09~ : Gdgoc Sookmyung member </div>
 </div>
 
 <div style="text-align: left;">
